@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/tranquochuy/python-node-script/issues"
   },
-  "homepage": "https://github.com/tranquochuy/python-node-script"
+  "homepage": "https://github.com/tranquochuy/python-node-script",
+  "dependencies": {
+    "optimist": "0.6.1"
+  }
 }
