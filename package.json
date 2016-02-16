@@ -1,0 +1,24 @@
+{
+  "name": "python-node",
+  "version": "1.0.0",
+  "description": "None",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tranquochuy/python-node-script.git"
+  },
+  "keywords": [
+    "node",
+    "python",
+    "naked"
+  ],
+  "author": "Huy Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tranquochuy/python-node-script/issues"
+  },
+  "homepage": "https://github.com/tranquochuy/python-node-script"
+}
