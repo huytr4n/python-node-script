@@ -14,5 +14,9 @@
 
     python sample.py
 
+### Series
+
+    python series.py
+
 ## Troubleshooting
 TODO
